@@ -1,4 +1,4 @@
-# 💳 Fraud Transaction Detection using Machine Learning
+# Fraud Transaction Detection using Machine Learning
 
 ##📌 Project Overview
 Financial fraud is a major challenge for digital payment companies and banks. Fraudulent transactions lead to significant financial losses and reduced customer trust.
