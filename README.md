@@ -13,7 +13,7 @@ The goal is to:
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 
 The dataset contains:
 
