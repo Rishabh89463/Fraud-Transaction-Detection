@@ -1,6 +1,6 @@
 # Fraud Transaction Detection using Machine Learning
 
-## Project Overview
+# Project Overview
 Financial fraud is a major challenge for digital payment companies and banks. Fraudulent transactions lead to significant financial losses and reduced customer trust.
 
 This project builds a **machine learning-based fraud detection system** that proactively identifies suspicious transactions using transaction behavior, balance changes, and transaction types.
